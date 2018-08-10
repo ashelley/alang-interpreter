@@ -1,0 +1,7 @@
+{
+    "go.inferGopath": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.env.windows": {
+        "GOPATH": "${workspaceFolder}"
+    }
+}
